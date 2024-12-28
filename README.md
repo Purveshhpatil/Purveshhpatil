@@ -1,5 +1,6 @@
 
-[![Pixel Art Cover]](https://masterpicks.medium.com/pixel-art-illustration-by-pixel-jeff-d0e145250b27)
+<img src="https://miro.medium.com/v2/resize:fit:1600/format:webp/1*_iCqRRWlZ5XNeD59RycRAA.gif" alt="Pixel Art GIF" width="600">
+
 
 Purvesh Patil 
 
