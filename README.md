@@ -1,5 +1,5 @@
 
-<img src="Cover.png" alt="Cover Image" width="600">
+<img src="Cover.png" alt="Cover Image" width="1000">
 
 ## Hi there 👋 Purvesh Patil here
 
