@@ -1,4 +1,4 @@
-![Cover](Cover.png)
+
 <img src="Cover.png" alt="Cover Image" width="600">
 
 ## Hi there 👋 Purvesh Patil here
