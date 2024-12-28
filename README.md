@@ -1,5 +1,5 @@
 
-<img src="Cover.png" alt="Cover Image" width="1000" height="200">
+<img src="[Cover.png](https://masterpicks.medium.com/pixel-art-illustration-by-pixel-jeff-d0e145250b27)" alt="Cover Image" width="1000" height="200">
 Purvesh Patil 
 
 <!--
