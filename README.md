@@ -1,5 +1,5 @@
 
-[![Pixel Art Cover](Cover.png)](https://masterpicks.medium.com/pixel-art-illustration-by-pixel-jeff-d0e145250b27)
+[![Pixel Art Cover]](https://masterpicks.medium.com/pixel-art-illustration-by-pixel-jeff-d0e145250b27)
 
 Purvesh Patil 
 
