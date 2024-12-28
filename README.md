@@ -1,5 +1,5 @@
 
-<img src="Cover.png" alt="Cover Image" width="600" height="200">
+<img src="Cover.png" alt="Cover Image" width="1000" height="200">
 Purvesh Patil 
 
 <!--
