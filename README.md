@@ -1,6 +1,6 @@
 
 <img src="Cover.png" alt="Cover Image" width="800" height="300">
-## Purvesh Patil 
+Purvesh Patil 
 
 <!--
 **Purveshhpatil/Purveshhpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
