@@ -1,4 +1,4 @@
-![Logo](https://www.canva.com/design/DAGamicKfTM/A-2sRMkufVs85-v0Jib79Q/edit)(https://github.com/Purveshhpatil)
+![Logo](Cover.png)
 ## Hi there 👋 Purvesh Patil here
 
 <!--
