@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGamicKfTM/A-2sRMkufVs85-v0Jib79Q/edit)(https://github.com/Purveshhpatil)
+[![MasterHead](https://www.canva.com/design/DAGamicKfTM/A-2sRMkufVs85-v0Jib79Q/edit)](https://github.com/Purveshhpatil)
 ## Hi there 👋 Purvesh Patil here
 
 <!--
