@@ -1,6 +1,5 @@
 
 <a href="https://masterpicks.medium.com/pixel-art-illustration-by-pixel-jeff-d0e145250b27" target="_blank">
-  <img src="Cover.png" alt="Pixel Art Cover" width="600">
 </a>
 
 Purvesh Patil 
