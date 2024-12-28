@@ -1,6 +1,5 @@
 
-<img src="https://miro.medium.com/v2/resize:fit:1600/format:webp/1*_iCqRRWlZ5XNeD59RycRAA.gif" alt="Pixel Art GIF" width="600">
-
+![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 
 Purvesh Patil 
 
