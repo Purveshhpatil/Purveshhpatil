@@ -1,5 +1,5 @@
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Banner" width="1000" height="380">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Banner" width="1000" height="350">
 
 
 Purvesh Patil 
